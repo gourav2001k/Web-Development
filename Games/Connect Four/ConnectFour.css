@@ -1,0 +1,29 @@
+button{
+  border:2px solid black;
+  height: 100px;
+  width: 100px;
+  background-color: gray;
+  border-radius: 50%;
+}
+li{
+  align-items: : left;
+}
+.turnBlue{
+  color:white;
+  background: blue;
+}
+.turnRed{
+  color:white;
+  background: red;
+}
+.lead{
+  font-size: 30px;
+}
+
+#again{
+  border: 0px;
+  height: 50px;
+  width: 150px;
+  border-radius: 5%;
+  font-size: 25px;
+}
